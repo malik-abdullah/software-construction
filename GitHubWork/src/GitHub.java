@@ -7,7 +7,7 @@ public class GitHub {
 		System.out.println("Welcome Abdullah Malik");
 		System.out.println("How Are You?");
 		System.out.println("What the progress of FYP?");
-		
+		System.out.println("Its Good.");
 		
 			}
 
